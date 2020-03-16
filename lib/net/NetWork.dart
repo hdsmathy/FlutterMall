@@ -22,13 +22,12 @@ class NetWork {
   }
 
   Dio dio = new Dio();
-  String consumer_key = GlobalConfig.isDebug ? "ck_26ec956175cd2e3c266c1f1bd73790261b424136" : "ck_510f0aed08b0157979dc595bf6d9989b0687f4fe";
-  String consumer_secret = GlobalConfig.isDebug ? "cs_0216f8e09b2c42533997a05d6c9b9e53a227b377" : "cs_f112f99e5567445ec43c17342a776032daa90ec4";
+  String consumer_key =  "ck_26ec956175cd2e3c266c1f1bd73790261b424136" ;
+  String consumer_secret ="cs_0216f8e09b2c42533997a05d6c9b9e53a227b377" ;
   NetWork() {
     // Set default configs
 
-//    dio.options.baseUrl = GlobalConfig.isDebug ? "http://test.olamall.vn:8080/" : "https://www.olamall.sg/";
-    dio.options.baseUrl = GlobalConfig.isDebug ? "http://test.olamall.sg/" : "https://olapartner.olamall.sg/";
+    dio.options.baseUrl = "http://test.olamall.sg/" ;
     dio.options.connectTimeout = 10000;
     dio.options.receiveTimeout = 10000;
     dio.options.responseType = ResponseType.json;

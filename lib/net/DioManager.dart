@@ -23,12 +23,12 @@ class DioManager {
   }
 
   Dio dio = new Dio();
-  String consumer_key = GlobalConfig.isDebug ? "ck_510f0aed08b0157979dc595bf6d9989b0687f4fe" : "ck_510f0aed08b0157979dc595bf6d9989b0687f4fe";
-  String consumer_secret = GlobalConfig.isDebug ? "cs_f112f99e5567445ec43c17342a776032daa90ec4" : "cs_f112f99e5567445ec43c17342a776032daa90ec4";
+  String consumer_key = "ck_510f0aed08b0157979dc595bf6d9989b0687f4fe" ;
+  String consumer_secret = "cs_f112f99e5567445ec43c17342a776032daa90ec4" ;
   DioManager() {
     // Set default configs
 
-    dio.options.baseUrl = GlobalConfig.isDebug ? "http://test.olamall.vn:8080/" : "https://www.olamall.sg/";
+    dio.options.baseUrl = "http://test.olamall.vn:8080/" ;
     dio.options.connectTimeout = 50000;
     dio.options.receiveTimeout = 30000;
     dio.interceptors

@@ -7,7 +7,7 @@ class GlobalConfig {
   static bool dark = false;
 
   static Color fontColor = Colors.black54;
-  static String baseUrl =  GlobalConfig.isDebug ? "http://test.olamall.vn:8080/" : "https://www.olamall.sg/";
-  static String consumer_secret =  GlobalConfig.isDebug ? "cs_f112f99e5567445ec43c17342a776032daa90ec4" : "cs_f112f99e5567445ec43c17342a776032daa90ec4";
-  static String consumer_key =  GlobalConfig.isDebug ? "ck_510f0aed08b0157979dc595bf6d9989b0687f4fe" : "ck_510f0aed08b0157979dc595bf6d9989b0687f4fe";
+  static String baseUrl =  "http://test.olamall.vn:8080/" ;
+  static String consumer_secret =   "cs_f112f99e5567445ec43c17342a776032daa90ec4" ;
+  static String consumer_key = "ck_510f0aed08b0157979dc595bf6d9989b0687f4fe" ;
 }

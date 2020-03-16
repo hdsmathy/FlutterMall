@@ -1,6 +1,7 @@
 # olamall_app
 
-A new Flutter application.
+1、Flutter开发的一个海外商城的APP
+2、后台是基于WordPress框架二次开发
 
 ## Getting Started
 
