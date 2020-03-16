@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:sharesdk_plugin] /Users/niko/Desktop/niko/Android/OlaMall/build/sharesdk_plugin/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [cn.sharesdk:ShareSDK:3.7.1] /Users/niko/.gradle/caches/transforms-2/files-2.1/630886c85e4fcf75915c036534301ff2/ShareSDK-3.7.1/AndroidManifest.xml:2:1-11:12
+MERGED from [cn.sharesdk:OneKeyShare:3.7.1] /Users/niko/.gradle/caches/transforms-2/files-2.1/12c16eb72bc4253584d5dc1481bf45ce/OneKeyShare-3.7.1/AndroidManifest.xml:2:1-11:12
+MERGED from [:fluttertoast] /Users/niko/Desktop/niko/Android/OlaMall/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/niko/Desktop/niko/Android/OlaMall/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] /Users/niko/Desktop/niko/Android/OlaMall/build/shared_preferences_web/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_macos] /Users/niko/Desktop/niko/Android/OlaMall/build/shared_preferences_macos/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niko/.gradle/caches/transforms-2/files-2.1/8b1f2f715809ca22ad3ee4d11738071d/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/c11b1b1b44c39a970ee1e5b3e6e0b055/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/46e139d33d23bbd13342de1de96c42c9/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/5f2743914d4bf8d3153f55967f1a010d/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/c23fa6d36269c510006e05fc2450a735/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/f0c076c3ec3b1ecffae8e68a9bb7b476/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/2fd2293837b6b6b9167a4ef289a7615c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/8db5333ac5be06dba4e3e2d978b1957f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/5622b8997198fcb0efc6631e1d88a70a/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/9485bcecaf8106801c201feebf62311b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/a4c7762362f5b2efc3ab528d5ec14b40/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/f2c722782c45832f2cf18c1d88d1b7c8/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/75ee88e5d9643b54d25f89b36e2f39a7/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/96675e0d240b2802e2d6a27d8e150961/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/457645db4d5cc6f6bfa6ddb21e014169/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/f05ca66f5ddf5c2d421497f353b243fa/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/58c7710fa9910c8dacb5385f9830d294/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/b782d2402f4b33124e595f483bf472b8/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/00f9296b6e762f3c62756569b32fbc16/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/cf293991658d5f4f4110877be79ccd7e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/31379c0df226de948e8740463b5d0221/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/6791ef1b3a9843b9bf931f932b9cf28a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/0f2538f0bbbca7cae384e5deb514ce13/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/0d6c7b08cc4d1868ddadb25dfae0e051/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/dd49d49e46220d470ca93f5046e4202e/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/ed661ef07823ba210242880e94d2791a/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/4bbe99349ff5591fd43b46af0d727898/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/9dccff56a26c93f8b42aec52c71f9aad/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/327141986270c4cbf40364b7c5c6b8fd/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:11:5-33:19
+MERGED from [:sharesdk_plugin] /Users/niko/Desktop/niko/Android/OlaMall/build/sharesdk_plugin/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:sharesdk_plugin] /Users/niko/Desktop/niko/Android/OlaMall/build/sharesdk_plugin/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:9:5-18:19
+MERGED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:9:5-18:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niko/.gradle/caches/transforms-2/files-2.1/8b1f2f715809ca22ad3ee4d11738071d/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niko/.gradle/caches/transforms-2/files-2.1/8b1f2f715809ca22ad3ee4d11738071d/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/b782d2402f4b33124e595f483bf472b8/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/b782d2402f4b33124e595f483bf472b8/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/0f2538f0bbbca7cae384e5deb514ce13/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/0f2538f0bbbca7cae384e5deb514ce13/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/b782d2402f4b33124e595f483bf472b8/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:13:9-36
+	android:icon
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:15:9-43
+	tools:replace
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:14:9-37
+	android:name
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:12:9-51
+activity#com.olj.olamall_app.MainActivity
+ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:16:9-27:20
+	android:launchMode
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:22:13-55
+	android:configChanges
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:20:13-163
+	android:theme
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:17:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:25:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:30:9-32:33
+	android:value
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:32:13-30
+	android:name
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml:31:13-44
+uses-sdk
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+MERGED from [:sharesdk_plugin] /Users/niko/Desktop/niko/Android/OlaMall/build/sharesdk_plugin/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:sharesdk_plugin] /Users/niko/Desktop/niko/Android/OlaMall/build/sharesdk_plugin/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:ShareSDK:3.7.1] /Users/niko/.gradle/caches/transforms-2/files-2.1/630886c85e4fcf75915c036534301ff2/ShareSDK-3.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:ShareSDK:3.7.1] /Users/niko/.gradle/caches/transforms-2/files-2.1/630886c85e4fcf75915c036534301ff2/ShareSDK-3.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.7.1] /Users/niko/.gradle/caches/transforms-2/files-2.1/12c16eb72bc4253584d5dc1481bf45ce/OneKeyShare-3.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.7.1] /Users/niko/.gradle/caches/transforms-2/files-2.1/12c16eb72bc4253584d5dc1481bf45ce/OneKeyShare-3.7.1/AndroidManifest.xml:7:5-9:41
+MERGED from [:fluttertoast] /Users/niko/Desktop/niko/Android/OlaMall/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/niko/Desktop/niko/Android/OlaMall/build/fluttertoast/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/niko/Desktop/niko/Android/OlaMall/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/niko/Desktop/niko/Android/OlaMall/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/niko/Desktop/niko/Android/OlaMall/build/shared_preferences_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/niko/Desktop/niko/Android/OlaMall/build/shared_preferences_web/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/niko/Desktop/niko/Android/OlaMall/build/shared_preferences_macos/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/niko/Desktop/niko/Android/OlaMall/build/shared_preferences_macos/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niko/.gradle/caches/transforms-2/files-2.1/8b1f2f715809ca22ad3ee4d11738071d/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niko/.gradle/caches/transforms-2/files-2.1/8b1f2f715809ca22ad3ee4d11738071d/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/c11b1b1b44c39a970ee1e5b3e6e0b055/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/c11b1b1b44c39a970ee1e5b3e6e0b055/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/46e139d33d23bbd13342de1de96c42c9/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/46e139d33d23bbd13342de1de96c42c9/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/5f2743914d4bf8d3153f55967f1a010d/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/5f2743914d4bf8d3153f55967f1a010d/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/c23fa6d36269c510006e05fc2450a735/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/c23fa6d36269c510006e05fc2450a735/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/f0c076c3ec3b1ecffae8e68a9bb7b476/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/f0c076c3ec3b1ecffae8e68a9bb7b476/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/2fd2293837b6b6b9167a4ef289a7615c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/2fd2293837b6b6b9167a4ef289a7615c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/8db5333ac5be06dba4e3e2d978b1957f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/8db5333ac5be06dba4e3e2d978b1957f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/5622b8997198fcb0efc6631e1d88a70a/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/5622b8997198fcb0efc6631e1d88a70a/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/9485bcecaf8106801c201feebf62311b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/9485bcecaf8106801c201feebf62311b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/a4c7762362f5b2efc3ab528d5ec14b40/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/a4c7762362f5b2efc3ab528d5ec14b40/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/f2c722782c45832f2cf18c1d88d1b7c8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/f2c722782c45832f2cf18c1d88d1b7c8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/75ee88e5d9643b54d25f89b36e2f39a7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/75ee88e5d9643b54d25f89b36e2f39a7/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/96675e0d240b2802e2d6a27d8e150961/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/96675e0d240b2802e2d6a27d8e150961/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/457645db4d5cc6f6bfa6ddb21e014169/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/457645db4d5cc6f6bfa6ddb21e014169/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/f05ca66f5ddf5c2d421497f353b243fa/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/f05ca66f5ddf5c2d421497f353b243fa/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/58c7710fa9910c8dacb5385f9830d294/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/58c7710fa9910c8dacb5385f9830d294/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/b782d2402f4b33124e595f483bf472b8/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/b782d2402f4b33124e595f483bf472b8/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/00f9296b6e762f3c62756569b32fbc16/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/00f9296b6e762f3c62756569b32fbc16/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/cf293991658d5f4f4110877be79ccd7e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/cf293991658d5f4f4110877be79ccd7e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/31379c0df226de948e8740463b5d0221/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/31379c0df226de948e8740463b5d0221/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/6791ef1b3a9843b9bf931f932b9cf28a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/6791ef1b3a9843b9bf931f932b9cf28a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/0f2538f0bbbca7cae384e5deb514ce13/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/0f2538f0bbbca7cae384e5deb514ce13/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/0d6c7b08cc4d1868ddadb25dfae0e051/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/0d6c7b08cc4d1868ddadb25dfae0e051/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/dd49d49e46220d470ca93f5046e4202e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/dd49d49e46220d470ca93f5046e4202e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/ed661ef07823ba210242880e94d2791a/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/ed661ef07823ba210242880e94d2791a/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/4bbe99349ff5591fd43b46af0d727898/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/4bbe99349ff5591fd43b46af0d727898/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/9dccff56a26c93f8b42aec52c71f9aad/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/9dccff56a26c93f8b42aec52c71f9aad/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/327141986270c4cbf40364b7c5c6b8fd/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/niko/.gradle/caches/transforms-2/files-2.1/327141986270c4cbf40364b7c5c6b8fd/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niko/Desktop/niko/Android/OlaMall/android/app/src/main/AndroidManifest.xml
+activity#com.pichillilorenzo.flutter_inappbrowser.InAppBrowserActivity
+ADDED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:10:9-13:47
+	android:configChanges
+		ADDED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:12:13-59
+	android:theme
+		ADDED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:13:13-44
+	android:name
+		ADDED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:11:13-89
+activity#com.pichillilorenzo.flutter_inappbrowser.ChromeCustomTabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:14:9-17:55
+	android:configChanges
+		ADDED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:16:13-59
+	android:theme
+		ADDED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:17:13-52
+	android:name
+		ADDED from [:flutter_inappbrowser] /Users/niko/Desktop/niko/Android/OlaMall/build/flutter_inappbrowser/intermediates/library_manifest/release/AndroidManifest.xml:15:13-110

@@ -1,0 +1,33 @@
+apply plugin: 'com.mob.sdk'
+
+MobSDK {
+    appKey "2e35e2d4c25e0"
+    appSecret "67c7398fbeedf4cfc55334eb9657b280"
+
+    ShareSDK {
+
+        //平台配置信息
+        devInfo {
+            Facebook {
+                id 8
+                sortId 8
+                appKey "937917269925573"
+                appSecret "3f5bf5aaf00d2e15d6fae63c6895ea11"
+                callbackUri "https://www.olamall.vn/"
+                shareByAppClient true
+                enable true
+            }
+
+            Twitter {
+                id 9
+                sortId 9
+                appKey "QuJ5KaARGkg3kCdA0y56tO6Nh"
+                appSecret "NKrOViHtSR56fBEFNUa48IfYOjdqUvzaZ7zI24VQkCnAcrZRZX"
+                callbackUri "https://www.olamall.vn"
+                shareByAppClient true
+                enable true
+            }
+
+        }
+    }
+}

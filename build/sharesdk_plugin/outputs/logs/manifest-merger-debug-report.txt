@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:1-9:12
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:1-9:12
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml:5:5-7:19
+uses-sdk
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk_plugin-1.2.1/android/src/main/AndroidManifest.xml

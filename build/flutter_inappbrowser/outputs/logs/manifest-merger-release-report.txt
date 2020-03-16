@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:7:5-10:19
+activity#com.pichillilorenzo.flutter_inappbrowser.InAppBrowserActivity
+ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:8:9-146
+	android:configChanges
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:8:88-134
+	android:theme
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:8:19-50
+	android:name
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:8:51-87
+activity#com.pichillilorenzo.flutter_inappbrowser.ChromeCustomTabs.ChromeCustomTabsActivity
+ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:9:9-175
+	android:configChanges
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:9:117-163
+	android:theme
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:9:19-58
+	android:name
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml:9:59-116
+uses-sdk
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-1.2.2/android/src/main/AndroidManifest.xml

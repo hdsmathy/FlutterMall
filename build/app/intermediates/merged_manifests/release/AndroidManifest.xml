@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.olj.olajin" android:versionName="1.0.0" android:versionCode="1">
+  <uses-sdk android:targetSdkVersion="28" android:minSdkVersion="17"/>
+  <uses-permission android:name="android.permission.INTERNET" xmlns:android="http://schemas.android.com/apk/res/android"/>
+  <application android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:label="olamall_app" android:name="com.olj.olamall_app.MainApp" android:icon="@mipmap/ic_launcher">
+    <activity android:hardwareAccelerated="true" android:launchMode="singleTop" android:name="com.olj.olamall_app.MainActivity" android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode" android:theme="@style/LaunchTheme" android:windowSoftInputMode="adjustResize">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER" xmlns:android="http://schemas.android.com/apk/res/android"/>
+      </intent-filter>
+    </activity>
+    <meta-data android:name="flutterEmbedding" android:value="2"/>
+    <activity android:name="com.pichillilorenzo.flutter_inappbrowser.InAppBrowserActivity" android:configChanges="orientation|screenSize" android:theme="@style/AppTheme"/>
+    <activity android:name="com.pichillilorenzo.flutter_inappbrowser.ChromeCustomTabs.ChromeCustomTabsActivity" android:configChanges="orientation|screenSize" android:theme="@style/ThemeTransparent" xmlns:android="http://schemas.android.com/apk/res/android"/>
+    <provider android:name="com.mob.MobProvider" android:exported="false" android:authorities="com.olj.olajin.com.mob.MobProvider" android:multiprocess="true"/>
+    <meta-data xmlns:tools="http://schemas.android.com/tools" android:name="Mob-AppKey" android:value="2e35e2d4c25e0" tools:node="merge"/>
+    <meta-data xmlns:tools="http://schemas.android.com/tools" android:name="Mob-AppSecret" android:value="67c7398fbeedf4cfc55334eb9657b280" tools:node="merge" xmlns:android="http://schemas.android.com/apk/res/android"/>
+    <activity xmlns:tools="http://schemas.android.com/tools" android:windowSoftInputMode="stateHidden|adjustResize" android:name="com.mob.tools.MobUIShell" android:configChanges="keyboardHidden|orientation|screenSize" android:theme="@android:style/Theme.Translucent.NoTitleBar" tools:node="merge"/>
+    <activity android:windowSoftInputMode="stateHidden|adjustResize" android:launchMode="singleTop" android:name="cn.sharesdk.framework.loopshare.RestoreTempActivity" android:configChanges="keyboardHidden|orientation|screenSize" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+    <activity xmlns:tools="http://schemas.android.com/tools" android:launchMode="singleTask" android:name="cn.sharesdk.loopshare.LoopShareActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" xmlns:android="http://schemas.android.com/apk/res/android">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW"/>
+        <category android:name="android.intent.category.DEFAULT" xmlns:tools="http://schemas.android.com/tools"/>
+        <category android:name="android.intent.category.BROWSABLE"/>
+        <data android:scheme="ssdk2e35e2d4c25e0" android:host="cn.sharesdk.loop" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"/>
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+  <uses-permission xmlns:tools="http://schemas.android.com/tools" android:name="android.permission.CHANGE_WIFI_STATE" xmlns:android="http://schemas.android.com/apk/res/android"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission xmlns:tools="http://schemas.android.com/tools" android:name="android.permission.READ_EXTERNAL_STORAGE" xmlns:android="http://schemas.android.com/apk/res/android"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+</manifest>

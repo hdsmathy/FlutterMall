@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+id action_close
+id action_go_back
+id action_go_forward
+id action_reload
+id action_share
+id container
+id menu_search
+id progressBar
+id webView
+layout activity_web_view
+layout chrome_custom_tabs_layout
+menu menu_main
+string action_close
+string action_go_back
+string action_go_forward
+string action_reload
+string action_share
+string menu_search
+style AppTheme
+style ThemeTransparent

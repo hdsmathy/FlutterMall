@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pichillilorenzo.flutter_inappbrowser" >
+
+    <uses-sdk android:minSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application>
+        <activity
+            android:name="com.pichillilorenzo.flutter_inappbrowser.InAppBrowserActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.pichillilorenzo.flutter_inappbrowser.ChromeCustomTabs.ChromeCustomTabsActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/ThemeTransparent" />
+    </application>
+
+</manifest>

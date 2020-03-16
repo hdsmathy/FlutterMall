@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.yoozoo.sharesdk"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk-1.1.8/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->/Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk-1.1.8/android/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk-1.1.8/android/src/main/AndroidManifest.xml:5:5-13:19
+12        <meta-data
+12-->/Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk-1.1.8/android/src/main/AndroidManifest.xml:7:9-9:43
+13            android:name="Mob-AppKey"
+13-->/Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk-1.1.8/android/src/main/AndroidManifest.xml:8:13-38
+14            android:value="moba6b6c6d6" />
+14-->/Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk-1.1.8/android/src/main/AndroidManifest.xml:9:13-40
+15        <meta-data
+15-->/Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk-1.1.8/android/src/main/AndroidManifest.xml:10:9-12:64
+16            android:name="Mob-AppSecret"
+16-->/Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk-1.1.8/android/src/main/AndroidManifest.xml:11:13-41
+17            android:value="b89d2427a3bc7ad1aea1e1e8c1d36bf3" />
+17-->/Users/niko/flutter/.pub-cache/hosted/pub.dartlang.org/sharesdk-1.1.8/android/src/main/AndroidManifest.xml:12:13-61
+18    </application>
+19
+20</manifest>

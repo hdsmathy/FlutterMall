@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+<SinaWeibo Enable="false" />
+<TencentWeibo Enable="false" />
+<Douban Enable="false" />
+<QZone Enable="false" />
+<Renren Enable="false" />
+<KaiXin Enable="false" />
+<Facebook Id="8" SortId="8" ShareByAppClient="true" Enable="true" ConsumerKey="937917269925573" ConsumerSecret="3f5bf5aaf00d2e15d6fae63c6895ea11" RedirectUrl="https://mob.com" />
+<Twitter Id="9" SortId="9" ShareByAppClient="true" Enable="true" ConsumerKey="QuJ5KaARGkg3kCdA0y56tO6Nh" ConsumerSecret="NKrOViHtSR56fBEFNUa48IfYOjdqUvzaZ7zI24VQkCnAcrZRZX" CallbackUrl="http://mob.com" />
+<Evernote Enable="false" />
+<FourSquare Enable="false" />
+<GooglePlus Enable="false" />
+<Instagram Enable="false" />
+<LinkedIn Enable="false" />
+<Tumblr Enable="false" />
+<Email Enable="false" />
+<ShortMessage Enable="false" />
+<Wechat Enable="false" />
+<WechatMoments Enable="false" />
+<QQ Enable="false" />
+<Instapaper Enable="false" />
+<Pocket Enable="false" />
+<YouDao Enable="false" />
+<Pinterest Enable="false" />
+<Flickr Enable="false" />
+<Dropbox Enable="false" />
+<VKontakte Enable="false" />
+<WechatFavorite Enable="false" />
+<Yixin Enable="false" />
+<YixinMoments Enable="false" />
+<Mingdao Enable="false" />
+<Line Enable="false" />
+<WhatsApp Enable="false" />
+<KakaoTalk Enable="false" />
+<KakaoStory Enable="false" />
+<FacebookMessenger Enable="false" />
+<Alipay Enable="false" />
+<AlipayMoments Enable="false" />
+<Dingding Enable="false" />
+<Youtube Enable="false" />
+<Meipai Enable="false" />
+<Telegram Enable="false" />
+<Cmcc Enable="false" />
+<Reddit Enable="false" />
+<Telecom Enable="false" />
+<Accountkit Enable="false" />
+<Douyin Enable="false" />
+<Wework Enable="false" />
+<HWAccount Enable="false" />
+<Oasis Enable="false" />
+</DevInfor>
